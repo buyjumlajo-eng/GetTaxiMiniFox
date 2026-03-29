@@ -36,7 +36,7 @@ function App() {
     document.documentElement.dir = lng === 'ar' ? 'rtl' : 'ltr'
   }
 
-  const handleRoleSelect = (role: 'passenger' | 'driver') => {
+  const handleRoleSelect = (role: 'passenger' | 'driver' | 'admin') => {
     setUserRole(role)
     setCurrentView(role)
   }

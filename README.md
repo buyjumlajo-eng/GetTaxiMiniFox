@@ -1,4 +1,4 @@
-# YellowWant.jo - Yellow Taxi in Amman
+# GetTaxi | إطلب تكسي - Taxi Booking in Amman
 
 A 100% browser-based web platform connecting passengers directly to licensed yellow taxis in Amman, Jordan.
 
@@ -22,7 +22,7 @@ A 100% browser-based web platform connecting passengers directly to licensed yel
 ## Project Structure
 
 ```
-yellowwant-jo/
+gettaxi/
 ├── public/
 │   └── taxi-icon.svg
 ├── src/
@@ -66,8 +66,8 @@ yellowwant-jo/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/yellowwant-jo.git
-   cd yellowwant-jo
+   git clone https://github.com/buyjumlajo-eng/GetTaxi.git
+   cd GetTaxi
    ```
 
 2. **Install dependencies**
@@ -126,7 +126,7 @@ vercel
 # - Set up and deploy? Yes
 # - Which scope? Select your account
 # - Link to existing project? No
-# - Project name? yellowwant-jo
+# - Project name? gettaxi
 # - Directory? ./
 # - Override settings? No
 ```
